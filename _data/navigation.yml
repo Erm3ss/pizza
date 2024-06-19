@@ -1,10 +1,9 @@
 # main links
 main:
-  - title: "Theme Documentation"
+  - title: "ORDER ONLINE"
     url: https://perstarke-webdev.de/oneflow-jekyll-theme
     blank: true
-    description: "The documentation for this theme, on https://perstarke-webdev.de"
-  - title: "Section 1"
+  - title: "Menu"
     url: /#section-1
     blank: false
   - title: "Section 2"
@@ -16,6 +15,4 @@ main:
   - title: "Section 4"
     url: /#section-4
     blank: false
-  - title: "Section 5"
-    url: /#section-5
-    blank: false
+  
